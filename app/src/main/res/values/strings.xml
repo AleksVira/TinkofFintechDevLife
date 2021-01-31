@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TinkofFintechDevLife</string>
+    <string name="dev_life">DevLife</string>
+    <string name="category_latest">Последние</string>
+    <string name="category_random">Случайные</string>
+    <string name="category_top">Лучшие</string>
+    <string name="repeat">ПОВТОРИТЬ</string>
+    <string name="network_error">Произошла ошибка при загрузке данных. Проверьте подключение к сети</string>
+    <string name="description">Свайп влево / вправо для смены категории</string>
+
+</resources>

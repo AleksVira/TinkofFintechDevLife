@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="half_x_size">4dp</dimen>
+    <dimen name="size_x">8dp</dimen>
+    <dimen name="size_2x">16dp</dimen>
+    <dimen name="size_3x">24dp</dimen>
+    <dimen name="size_4x">32dp</dimen>
+    <dimen name="button_size">42dp</dimen>
+</resources>

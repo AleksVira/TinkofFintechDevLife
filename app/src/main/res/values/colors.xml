@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/cyan_base</color>
+    <color name="colorPrimaryDark">@color/cyan_dark</color>
+    <color name="colorAccent">@color/yellow_base</color>
+    <color name="green">#1C7919</color>
+    <color name="gray">#D3D3D3</color>
+    <color name="yellow">#FFD530</color>
+
+
+
+    //Not Used ???
+<!--    <color name="purple_200">#FFBB86FC</color>-->
+<!--    <color name="purple_500">#FF6200EE</color>-->
+<!--    <color name="purple_700">#FF3700B3</color>-->
+<!--    <color name="teal_200">#FF03DAC5</color>-->
+<!--    <color name="teal_700">#FF018786</color>-->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="cyan_light">#FF56C8D8</color>
+    <color name="cyan_base">#FF0097A7</color>
+    <color name="cyan_dark">#FF006978</color>
+
+    <color name="yellow_base">#FFFFEB3B</color>
+    <color name="yellow_light">#FFFFFF72</color>
+
+
+</resources>
